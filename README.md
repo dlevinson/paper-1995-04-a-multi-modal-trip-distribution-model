@@ -13,7 +13,7 @@ Generated: 2026-05-16 15:36:57 AEST
 
 ## Package Status
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Package type: derived/aggregate data, legacy workbook sidecars, and shared model-code pointer
 - Raw confidential/person-level data: not included
 - Generic Travel/2 code: referenced once from the shared source, not duplicated here
@@ -39,7 +39,7 @@ This is a public-release candidate for author/project-created derived artifacts 
 
 Generated: 2026-05-20 15:23:47 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
